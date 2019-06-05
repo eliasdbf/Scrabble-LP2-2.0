@@ -1,0 +1,15 @@
+D:\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+D:\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+D:\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.csprojAssemblyReference.cache
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.FormInicio.resources
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.Properties.Resources.resources
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.GenerateResource.cache
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.FormJuego.resources
+D:\Scrabble\Scrabble\bin\Debug\mzn\Scrabble.resources.dll
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.Diccionario.resources
+D:\Scrabble\Scrabble\obj\Debug\Scrabble.Diccionario.mzn.resources
+D:\Scrabble\Scrabble\obj\Debug\mzn\Scrabble.resources.dll
