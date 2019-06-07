@@ -274,6 +274,7 @@ namespace Scrabble
             Asignar(sender, e);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseMove);
 
+            MessageBox.Show("holad");
             /*RepartirLetras(ref Letra1, Environment.TickCount+1, e);
             RepartirLetras(ref Letra2, Environment.TickCount+2, e);
             RepartirLetras(ref Letra3, Environment.TickCount+3, e);
